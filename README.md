@@ -1,4 +1,4 @@
-# 105-Unit-3
+# County Health Data
 ## Purpose of this Repository
 This repository takes data from the 2014-2015 County Health Data and provides instructional steps on how to filter and merge the data into new subsets. With new subsets created, researchers are able to narrow the data into specific fields such as unemployment, air poullution, and region. This makes it easier to provide analysis on what was before a large data set.
 
