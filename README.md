@@ -7,6 +7,9 @@ The Data folder in the repository includes:
 3. The new combined subset called CompiledData.csv
 
 ### Instructions
+1. Download Anaconda [here](https://www.anaconda.com/).
+2. Open JupyterLab via Anaconda Navigator.
+3. Copy the files in the Data folder into your own directory and open them in JupyterLab.
 
 ### Visualizations
 With a subset created to your liking, visualizations can be generated. The following map was created using [Datawrapper](https://www.datawrapper.de/) by importing the example subset. The map shows the population not proficient in English on a density map of the US, making it much easier to interpret the data. States with higher proportions are clearly distinguished from states with lower proportions using color.
