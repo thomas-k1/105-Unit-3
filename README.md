@@ -15,4 +15,4 @@ The Data folder in the repository includes:
 ## Visualizations
 With a subset created to your liking, visualizations can be generated. The following map was created using [Datawrapper](https://www.datawrapper.de/) by importing the example subset. The map shows the population not proficient in English on a density map of the US, making it much easier to interpret the data. States with higher proportions are clearly distinguished from states with lower proportions using color.
 
-![ENGLGraph3](https://user-images.githubusercontent.com/111792206/202930467-6a5eee53-b88d-470d-96ca-c093c39fb843.png)
+![ENGLGraph4](https://user-images.githubusercontent.com/111792206/204203054-7422450b-7c2d-4434-b29c-b8b06335316b.png)
